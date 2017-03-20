@@ -17,6 +17,10 @@ namespace Assignment2
             InitializeComponent();
         }
 
+        public static List<List<float>> YList { get; set; } = new List<List<float>>();
+        public static List<List<float>> UList { get; set; } = new List<List<float>>();
+        public static List<List<float>> VList { get; set; } = new List<List<float>>();
+
         private void btnBackground_Click(object sender, EventArgs e)
         {
             Background.setBackground(pictureBox1, openFileDialogBG);

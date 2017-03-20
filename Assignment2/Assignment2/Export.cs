@@ -16,7 +16,9 @@ namespace Assignment2
             // 4:2:0 Sample the first pixel of a set, the second pixel is the copies the first, 
             // third is sampled, 4th is copied.
             // Every second line is just duplicated from the previous line.
-            
+
+            ConvertImage.toYUV444(outImage);
+            ConvertImage.toYUV420();
             // run DCT transformation
 
             // put transform matrix into file

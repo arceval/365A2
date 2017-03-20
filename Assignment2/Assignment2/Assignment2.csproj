@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Background.cs" />
+    <Compile Include="DCT.cs" />
+    <Compile Include="RGB.cs" />
+    <Compile Include="YUV.cs" />
     <Compile Include="ConvertImage.cs" />
     <Compile Include="Export.cs" />
     <Compile Include="Foreground.cs" />
