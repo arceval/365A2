@@ -31,3 +31,6 @@ C:\Users\Rohm\Documents\A2\A2\Assignment2\Assignment2\obj\Debug\Assignment2.cspr
 C:\Users\Rohm\Documents\A2\A2\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
 C:\Users\Rohm\Documents\A2\A2\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
 C:\Users\Rohm\Documents\A2\A2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+C:\Users\Rohm\Documents\GitHub\365A2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Rohm\Documents\GitHub\365A2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Rohm\Documents\GitHub\365A2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
